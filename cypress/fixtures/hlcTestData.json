@@ -1,0 +1,25 @@
+{
+    "url":"https://hlcuat2.benekiva.io/login",
+    "username": "bishal+csr@benekiva.com",
+    "usernameFhd":"bishal+fhd@benekiva.com",
+    "password": "MyNewPassword@1901",
+    "claimPolicy":"9860128545",
+    "fhdPolicy":"0002456304",
+    "fhdDateofDeath":"12/13/2023",
+    "fhdInsuredDob":"06/07/1939",
+    "fhdFun1": "Test Funeral",
+
+    "policynumber": "0003540100",
+    "policynumber1": "0002510328",
+    "amount" : "3434",
+    "DateOfDeath" : "08/22/2023",
+    "spoke": "test Spoke",
+    "phNum" : "9876541236",
+    "internalNote":"This is a Test Note",
+    "email":"bishal@gmail.com",
+    "FirstName": "Mathew",
+    "MiddleName":"Marry",
+    "lastName":"Hayden",
+    "Address":"12,New Link Road"
+    
+}
